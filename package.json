@@ -1,0 +1,20 @@
+{
+  "name": "fantasmerkator",
+  "version": "1.0.0",
+  "description": "A fantasy RPG map editor and viewer",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/FrancisStudios/fantas-merkator",
+  "keywords": [
+    "map editor",
+    "fantasy map program"
+  ],
+  "author": "Francis Stuidos",
+  "license": "",
+  "devDependencies": {
+    "electron": "^37.0.0"
+  }
+}

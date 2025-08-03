@@ -1,0 +1,13 @@
+{
+    "App": {
+        "window": {
+            "title": "Fantas-merkator",
+            "width": 800,
+            "height": 600,
+            "menu": false
+        },
+        "developer": {
+            "activated": true
+        }
+    }
+}
