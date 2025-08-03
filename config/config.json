@@ -1,7 +1,7 @@
 {
     "App": {
         "window": {
-            "title": "Fantas-merkator",
+            "title": "Fantasmerkator",
             "width": 800,
             "height": 600,
             "menu": false
